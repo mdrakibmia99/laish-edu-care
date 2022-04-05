@@ -1,0 +1,21 @@
+.nav-container{
+    background: palegoldenrod;
+display: flex;
+justify-content: space-between;
+padding: 20px 70px;
+align-items: center;
+margin-bottom: 5px solid black;
+}
+.nav-container a {
+    text-decoration: none;
+    padding-right: 20px;
+    color: black;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.custom-nav-link a:hover{
+    color: orange;
+   
+}

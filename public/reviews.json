@@ -1,0 +1,46 @@
+
+
+[
+    {
+        "id": 1,
+        "name": "Sakib Khan",
+        "image": "./img/img-1.jpg",
+        "review": "We sought systematic reviews of text messaging interventions in preventive or curative health care.",
+        "ratings": 4
+    },
+    {
+        "id": 2,
+        "name": "Sabnur",
+        "image": "./img/img-2.jpg",
+        "review": "Computerized text-parsing tools such as LSA allow an objective review of text responses that would be otherwise impossible to standardize.",
+        "ratings": 5
+    },
+    {
+        "id": 3,
+        "name": "Rubel",
+        "image": "./img/img-3.jpg",
+        "review": "We sought systematic reviews of text messaging interventions in preventive or curative health care.",
+        "ratings": 3
+    },
+    {
+        "id": 4,
+        "name": "Purnima",
+        "image": "./img/img-4.jpg",
+        "review": "Following a screening of the titles and abstracts, the decision about inclusion/exclusion will be based on the review of full texts.",
+        "ratings": 2
+    },
+    {
+        "id": 5,
+        "name": "Manna",
+        "image": "./img/img-5.jpg",
+        "review": "The problem of opinion fraud detection has been addressed by focusing on the review of text information and by behavioral .",
+        "ratings": 5
+    },
+    {
+        "id": 6,
+        "name": "Sabila Nur",
+        "image": "./img/img-6.jpg",
+        "review": "In their products, we present a review of text compression algorithms, with particular emphasis on the LZ family algorithms.",
+        "ratings": 4
+    }
+]
